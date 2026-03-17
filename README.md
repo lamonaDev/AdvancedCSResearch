@@ -5,7 +5,7 @@
 *Full-Stack .NET Engineer*
 ---
 ## 📋 Table of Contents
-1. [Anonymous Objects & Types](#1-anonymous-objects--types)
+1. [Anonymous Objects & Types](https://github.com/lamonaDev/AdvancedCSResearch/blob/master/AdvancedCSResearch.PartOne/Anonymous%20Types.md)
 2. [Events in C#](#2-events-in-c)
 3. [Event-Driven Architecture (EDA)](#3-event-driven-architecture-eda)
 4. [Publish/Subscribe Model](#4-publishsubscribe-model)
